@@ -3,13 +3,13 @@
 
 ## 快速启动
 
-打开终端，切换到项目所在文件夹下，输入以下命令进行相关库的安装（推荐新建一个anaconda下的python环境，方便管理）
+打开终端，切换到项目所在文件夹下，输入以下命令进行相关库的安装（推荐新建一个anaconda下的python环境，方便管理）。
 
 ```shell
 pip install -r requirements.txt
 ```
 
-输入以下命令运行项目，会自动打开网页，若没打开，点击终端的链接即可
+输入以下命令运行项目，会自动打开网页，若没打开，点击终端的链接即可。
 
 ```python
 streamlit run main.py
@@ -25,7 +25,7 @@ streamlit run main.py
 
 ## 试用
 
-点击该书签[🔖](https://all-kinds-translator.streamlit.app/)进行网站的试用。注：试用无法通过os调用环境变量，需要显式输入api_key
+点击该书签[🔖](https://all-kinds-translator.streamlit.app/)进行网站的试用。注：试用无法通过os调用环境变量，需要显式输入api_key。
 
 ## 许可证
 
