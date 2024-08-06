@@ -1,5 +1,5 @@
 # 全语种翻译器
-本项目基于LangChain框架，前端使用streamlit库，完全基于python语言编写了一个全语种翻译器。
+本项目基于 LangChain 框架开发，前端使用 Streamlit 库，采用 Python 语言编写，实现了一个全语种翻译器。
 
 ## 快速启动
 
