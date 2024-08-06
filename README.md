@@ -22,6 +22,9 @@ streamlit run main.py
 <p align="center">
     <em>"项目运行结果"</em>
 </p>
+## 试用
+
+点击该书签[🔖](https://all-kinds-translator.streamlit.app/)进行网站的试用。注：试用无法通过os调用环境变量，需要显式输入api_key
 
 ## 许可证
 
